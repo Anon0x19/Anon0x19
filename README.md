@@ -2,7 +2,7 @@
 
 > Currently studying **Computer Science** at the **University of York**
 >
-> I like to write code so feel free to scroll down and look through my projects
+> I like to write code so feel free to scroll down and look through my repositories
 
 
 ## Getting in Touch:
