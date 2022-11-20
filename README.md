@@ -5,7 +5,7 @@
 > I like to write code so feel free to scroll down and look through my repositories
 
 
-![Marc's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anon0x19&theme=gruvbox&show_icons=true)
+![Marc's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anon0x19&theme=gruvbox&show_icons=true)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anon0x19&hide=javascript,html&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Getting in Touch:
